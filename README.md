@@ -105,7 +105,7 @@ $ nano CONTRIBUTORS.md
 > Add your name below:
 >
 > • Karan Kumar — ESP32 Controlled Joystick Remote, C++
-> • Harsh Raj - 
+> • Harsh Raj - OpenCV and Hardware Integration, ESP#@ Programming
 > • Ashutosh Bharti - Face Recognition, OPEN CV, Python
 
 # ---------------------------------------------------------
