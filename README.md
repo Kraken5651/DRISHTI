@@ -104,9 +104,9 @@ $ drishti --roadmap
 $ nano CONTRIBUTORS.md
 > Add your name below:
 >
-> • Karan Kumar — ESP32 Controlled Joystick Remote
+> • Karan Kumar — ESP32 Controlled Joystick Remote, C++
 > • Harsh Raj - 
-> • Ashutosh Bharti -
+> • Ashutosh Bharti - Face Recognition, OPEN CV, Python
 
 # ---------------------------------------------------------
 #  END OF FILE
